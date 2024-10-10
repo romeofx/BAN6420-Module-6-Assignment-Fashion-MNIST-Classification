@@ -1,7 +1,5 @@
 # BAN6420-Module-6-Assignment-Fashion-MNIST-Classification
 
-# Fashion MNIST CNN Project
-
 # Overview
 ## This project focuses on building a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset using both Python and R. The Fashion MNIST dataset consists of 70,000 grayscale images of 28x28 pixels, representing 10 different categories of clothing items. The goal is to accurately classify these images into their respective categories using deep learning models.
 
