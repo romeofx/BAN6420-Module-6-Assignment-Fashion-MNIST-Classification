@@ -10,14 +10,14 @@
 - R Implementation: Similarly, in R, we implement the CNN using the tensorflow and keras libraries to replicate the model architecture built in Python. This allows us to work with the same dataset in two different environments and compare model performances if desired.
 
 ## Requirements
-- Python
+## - Python
 - `Python 3.x` (preferably 3.8 or above)
 - `TensorFlow`
 - `Keras`
 - `NumPy`
 - `Matplotlib` (for visualizing the results)
 
-- R
+## - R
 - R version 4.x` or higher
 - `tensorflow` R package
 - keras R package
